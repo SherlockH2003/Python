@@ -10,4 +10,4 @@ Course coursera yang menjadi referensi :
 1. Crash course on python
 2. Using python to interact with operating system
 
-<img src='../assets/python.png'>
+<img src='assets/python.png'> 
